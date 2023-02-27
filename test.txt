@@ -1,3 +1,9 @@
 message from Polat
+<<<<<<< HEAD
 new changes
 some changes from master
+=======
+some modification from test1 branch
+some changes from master
+finals changes
+>>>>>>> 93f5bb39926fbff71f8c7119c48b5a4f679cc99b
